@@ -1,7 +1,11 @@
 # James Bain
 
 ## Contact
-email: <jamescbain@gmail.com>
+
+email: <james.bain@ucalgary.edu>
+
+personal email: <jamescbain@gmail.com>
+
 github: [jcbain](https://github.com/jcbain)
 
 ## Projects
